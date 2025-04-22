@@ -1,0 +1,712 @@
+{
+  "gpt-4.1-nano": {
+    "accuracy": 0.2765957446808511,
+    "predictions": [
+      {
+        "name": "MD MONSUR",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MD NURUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MD JAHIRUL ISLAM JAHIRUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MD DIDARUL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD SHUZAN",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST MUKTA MONI",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "BEAUTY",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SALMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST ASMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD LNTRZ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST LELI BEGUM",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST POLE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST NASIMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD NAJMUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST SHIPY BEGJM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SONIA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MDSALIMRANA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "SAJEDUL ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MS MUKTRADIR ENTERPRISE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD RIYAJUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "SAMIUR",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "JELEKHA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD RAZIBUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST AFROZA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST FOJILA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD AJHARUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "DOLALI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST KULSUM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD SHOFIQUL ",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST ROKEYA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD RAKIBUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "LAVLU",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD MNTU",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MORSHED STORE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD AJHARUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "JOYNAL ENTERPRISE ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "KADBANU",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST ARFUL NASA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST FEROJA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD LUTFOR",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MSR DEVDASH",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SOJANA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD ZABBAR",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD HASANUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST RAJIA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST DELUARA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST RAHIMA",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MD NOJRUL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "ROBIUL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD DALIM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SALEMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "ASNA BRGUM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST LOVLI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD RIFAT",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST SHATHE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD SAIFUL SEIKJ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST TANIA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST RUPVAN NASH",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD JOYUL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "HOSSIAN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST GOUL NAHER",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD MUKLESUR",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST ANJUMAN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST AJMA BEGUM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MOKTA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST LIMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD ANISHUR",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST JAHANARA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MSTGAMILA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST FATEMA",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST SHAMSUNAHER",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD HAMIDULL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "KHALK ENTERPRISE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST KHALEDA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST RUBI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST MOWFIKA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SORFOLI BEGUM",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "LOOKE PODA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST ROKEYA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST FORIDA KHATUN",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST SHLPI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST TASLIMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD MOZAMMEL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST ROKYA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD LAVLU MIA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "ALAM ENTERPRISE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST RAWSHAN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST MINA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD SOFIKU",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST AYESA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "JULEKHA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "REPON MEDA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST CHINA KHATUN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "JAHIDUL ",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST ZARINA ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD GOLAM",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "ALAMGIR",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "BIPNNO CHAKROBARTTY",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "SOTENRO",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD NAZMUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST LIPA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "ZINARUL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD ANARIL",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST LIMI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD ELIAJ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST JOSNA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD JEWEL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST AKHI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD HAFIJUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MD MOTALAB",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "KHOKON ",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD SHOHAG",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "DEBASHISH ENTERPRISE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MTS SARMIN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "AR ENTERPRISE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD ANORARAFARHADUL ISLAM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "JUBORAJ MIA",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "HRIDOY",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST LAILA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD JAFOR",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST FOJILA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST NARGIS",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MSTSHAHANAKHATUN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "FORIDA BEGUM",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "SARUFJAN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SAFIA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST SABIKUNNAHAR",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST TASLIMA",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST HLIMA AKTER",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD DIDAROJJAMAN",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MST NODI",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD TOYABUR",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "SHAFIQUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "GAZI STORE",
+        "actual": 1,
+        "predicted": 0
+      },
+      {
+        "name": "MD HAFIJUL",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MD AKIB ",
+        "actual": 1,
+        "predicted": 1
+      },
+      {
+        "name": "MST",
+        "actual": 0,
+        "predicted": 0
+      },
+      {
+        "name": "MST",
+        "actual": 0,
+        "predicted": 0
+      },
+      {
+        "name": "MMK",
+        "actual": 0,
+        "predicted": 0
+      },
+      {
+        "name": "MST ",
+        "actual": 0,
+        "predicted": 0
+      },
+      {
+        "name": "MST",
+        "actual": 0,
+        "predicted": 0
+      }
+    ]
+  }
+}
