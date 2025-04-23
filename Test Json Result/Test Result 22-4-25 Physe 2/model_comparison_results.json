@@ -1,6 +1,6 @@
 {
   "gpt-4.1": {
-    "accuracy": 0.9410526315789474,
+    "accuracy": 0.9547368421052631,
     "predictions": [
       {
         "name": " abu hanif sk",
@@ -399,7 +399,7 @@
       },
       {
         "name": "azibor ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 1
       },
       {
@@ -419,7 +419,7 @@
       },
       {
         "name": "Baby Fashion ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -499,7 +499,7 @@
       },
       {
         "name": "Dental Avenue",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -759,7 +759,7 @@
       },
       {
         "name": "HEDAET",
-        "actual": 1,
+        "actual": 0,
         "predicted": 1
       },
       {
@@ -815,7 +815,7 @@
       {
         "name": "ismai",
         "actual": 0,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "ISMAI BOAIKALI",
@@ -1035,7 +1035,7 @@
       {
         "name": "khosada",
         "actual": 0,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "KOLPONA begum",
@@ -1084,7 +1084,7 @@
       },
       {
         "name": "little Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -1555,7 +1555,7 @@
       {
         "name": "md byjid",
         "actual": 0,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "Md Delouar Hossain ",
@@ -2335,7 +2335,7 @@
       {
         "name": "MD RUKONZZAMAN",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "MD RUMAUN SADEK",
@@ -2704,7 +2704,7 @@
       },
       {
         "name": "md.easin mal",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -2719,7 +2719,7 @@
       },
       {
         "name": "MdLion Mia",
-        "actual": 1,
+        "actual": 0,
         "predicted": 1
       },
       {
@@ -2759,8 +2759,8 @@
       },
       {
         "name": "Mist Nazma",
-        "actual": 1,
-        "predicted": 0
+        "actual": 0,
+        "predicted": 1
       },
       {
         "name": "Mithun Mondal",
@@ -2784,7 +2784,7 @@
       },
       {
         "name": "Moat.sadia afrin khama",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -2980,7 +2980,7 @@
       {
         "name": "most Amena Akter ",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "most fatema khatun ",
@@ -3270,7 +3270,7 @@
       {
         "name": "MST NOBISON",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "mst nupur",
@@ -3419,7 +3419,7 @@
       },
       {
         "name": "mst.bilkis ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -3429,12 +3429,12 @@
       },
       {
         "name": "mst.ismatara",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "Mst.Ulema Begum",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -3789,7 +3789,7 @@
       },
       {
         "name": "rastu",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -3934,7 +3934,7 @@
       },
       {
         "name": "Royal academy ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -4379,7 +4379,7 @@
       },
       {
         "name": "Siam Motors ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -4444,12 +4444,12 @@
       },
       {
         "name": "Sohel Store",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "sojib Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -4574,7 +4574,7 @@
       },
       {
         "name": "Sun Computer ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -4755,7 +4755,7 @@
     ]
   },
   "gpt-4.1-mini": {
-    "accuracy": 0.9505263157894737,
+    "accuracy": 0.9652631578947368,
     "predictions": [
       {
         "name": " abu hanif sk",
@@ -5154,8 +5154,8 @@
       },
       {
         "name": "azibor ",
-        "actual": 1,
-        "predicted": 0
+        "actual": 0,
+        "predicted": 1
       },
       {
         "name": "babul",
@@ -5174,7 +5174,7 @@
       },
       {
         "name": "Baby Fashion ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -5254,7 +5254,7 @@
       },
       {
         "name": "Dental Avenue",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -5514,7 +5514,7 @@
       },
       {
         "name": "HEDAET",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -5839,7 +5839,7 @@
       },
       {
         "name": "little Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -5860,7 +5860,7 @@
       {
         "name": "Ma O Jannat Tadres",
         "actual": 0,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "ma shah alam miaji",
@@ -7459,7 +7459,7 @@
       },
       {
         "name": "md.easin mal",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -7474,7 +7474,7 @@
       },
       {
         "name": "MdLion Mia",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -7514,7 +7514,7 @@
       },
       {
         "name": "Mist Nazma",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -7539,7 +7539,7 @@
       },
       {
         "name": "Moat.sadia afrin khama",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -8174,7 +8174,7 @@
       },
       {
         "name": "mst.bilkis ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -8184,12 +8184,12 @@
       },
       {
         "name": "mst.ismatara",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "Mst.Ulema Begum",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -8405,7 +8405,7 @@
       {
         "name": "ozir",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "oriko",
@@ -8544,7 +8544,7 @@
       },
       {
         "name": "rastu",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -8689,7 +8689,7 @@
       },
       {
         "name": "Royal academy ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -9134,7 +9134,7 @@
       },
       {
         "name": "Siam Motors ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -9199,12 +9199,12 @@
       },
       {
         "name": "Sohel Store",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "sojib Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -9329,7 +9329,7 @@
       },
       {
         "name": "Sun Computer ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -9390,7 +9390,7 @@
       {
         "name": "Tarlfa hayer",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "Tasfla nabila",
@@ -9510,7 +9510,7 @@
     ]
   },
   "gpt-4.1-nano": {
-    "accuracy": 0.8821052631578947,
+    "accuracy": 0.9021052631578947,
     "predictions": [
       {
         "name": " abu hanif sk",
@@ -9909,7 +9909,7 @@
       },
       {
         "name": "azibor ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -9929,7 +9929,7 @@
       },
       {
         "name": "Baby Fashion ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -10009,7 +10009,7 @@
       },
       {
         "name": "Dental Avenue",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -10269,7 +10269,7 @@
       },
       {
         "name": "HEDAET",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -10530,7 +10530,7 @@
       {
         "name": "Khan Saddam",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "Kohinur begum ",
@@ -10594,7 +10594,7 @@
       },
       {
         "name": "little Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -12214,7 +12214,7 @@
       },
       {
         "name": "md.easin mal",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -12229,7 +12229,7 @@
       },
       {
         "name": "MdLion Mia",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -12269,7 +12269,7 @@
       },
       {
         "name": "Mist Nazma",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -12294,7 +12294,7 @@
       },
       {
         "name": "Moat.sadia afrin khama",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -12560,7 +12560,7 @@
       {
         "name": "mst anwar",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "MST ANWARA KHATUN",
@@ -12770,7 +12770,7 @@
       {
         "name": "MST nasrin ",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "mst Nazma khatun",
@@ -12929,7 +12929,7 @@
       },
       {
         "name": "mst.bilkis ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -12939,12 +12939,12 @@
       },
       {
         "name": "mst.ismatara",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "Mst.Ulema Begum",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -13015,7 +13015,7 @@
       {
         "name": "najir",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "Nandan Paul",
@@ -13090,7 +13090,7 @@
       {
         "name": "noib Alli",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "Nor Nahar Begum ",
@@ -13299,7 +13299,7 @@
       },
       {
         "name": "rastu",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -13444,7 +13444,7 @@
       },
       {
         "name": "Royal academy ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -13680,7 +13680,7 @@
       {
         "name": "sazedul",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "Sebika Begum",
@@ -13845,7 +13845,7 @@
       {
         "name": "SHOFIQUJJAMAN MOLLA",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "shoheli sharmin",
@@ -13889,7 +13889,7 @@
       },
       {
         "name": "Siam Motors ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -13954,12 +13954,12 @@
       },
       {
         "name": "Sohel Store",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "sojib Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -14084,7 +14084,7 @@
       },
       {
         "name": "Sun Computer ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -14265,7 +14265,7 @@
     ]
   },
   "gpt-4o-mini": {
-    "accuracy": 0.9252631578947368,
+    "accuracy": 0.9442105263157895,
     "predictions": [
       {
         "name": " abu hanif sk",
@@ -14664,7 +14664,7 @@
       },
       {
         "name": "azibor ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -14684,7 +14684,7 @@
       },
       {
         "name": "Baby Fashion ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -14764,7 +14764,7 @@
       },
       {
         "name": "Dental Avenue",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -15024,7 +15024,7 @@
       },
       {
         "name": "HEDAET",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -15085,7 +15085,7 @@
       {
         "name": "ISMAI BOAIKALI",
         "actual": 0,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "Ismat Zerin Khan Promi",
@@ -15270,7 +15270,7 @@
       {
         "name": "KHA N OMOR FARUK",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "khairul islam",
@@ -15349,7 +15349,7 @@
       },
       {
         "name": "little Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -15370,7 +15370,7 @@
       {
         "name": "Ma O Jannat Tadres",
         "actual": 0,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "ma shah alam miaji",
@@ -16969,7 +16969,7 @@
       },
       {
         "name": "md.easin mal",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -16984,7 +16984,7 @@
       },
       {
         "name": "MdLion Mia",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -17024,7 +17024,7 @@
       },
       {
         "name": "Mist Nazma",
-        "actual": 1,
+        "actual": 0,
         "predicted": 1
       },
       {
@@ -17049,7 +17049,7 @@
       },
       {
         "name": "Moat.sadia afrin khama",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -17285,7 +17285,7 @@
       {
         "name": "MOUSUMI AKETAR",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "MST ABEDA SULTANA",
@@ -17684,7 +17684,7 @@
       },
       {
         "name": "mst.bilkis ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -17694,12 +17694,12 @@
       },
       {
         "name": "mst.ismatara",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "Mst.Ulema Begum",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -17955,7 +17955,7 @@
       {
         "name": "rabby ahmmed ",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "RABEA BEGUM",
@@ -18054,7 +18054,7 @@
       },
       {
         "name": "rastu",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -18199,7 +18199,7 @@
       },
       {
         "name": "Royal academy ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -18405,7 +18405,7 @@
       {
         "name": "SAROWAR UDDINkala",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "saruer bhuiyan ",
@@ -18490,7 +18490,7 @@
       {
         "name": "shaharun",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "Shahjahan",
@@ -18515,7 +18515,7 @@
       {
         "name": "shanaj",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "Shanta yeasmin",
@@ -18644,7 +18644,7 @@
       },
       {
         "name": "Siam Motors ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -18675,7 +18675,7 @@
       {
         "name": "SNEHOLOTA MONDAL ",
         "actual": 1,
-        "predicted": 0
+        "predicted": 1
       },
       {
         "name": "Sobrez Uddin ",
@@ -18709,12 +18709,12 @@
       },
       {
         "name": "Sohel Store",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
         "name": "sojib Enterprise ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -18839,7 +18839,7 @@
       },
       {
         "name": "Sun Computer ",
-        "actual": 1,
+        "actual": 0,
         "predicted": 0
       },
       {
@@ -18925,7 +18925,7 @@
       {
         "name": "torikul",
         "actual": 1,
-        "predicted": 1
+        "predicted": 0
       },
       {
         "name": "TOUHID AHMED NIROB",
