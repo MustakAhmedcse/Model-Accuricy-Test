@@ -15,10 +15,10 @@ logger = logging.getLogger(__name__)
 API_URL = "http://localhost:5000/predict"
 
 # Models to test
-MODELS = ["gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano", "gpt-4o-mini"]
+MODELS = ["gpt-4.1-mini","gpt-4o-mini"]
 
 # Configure concurrency
-MAX_WORKERS = 10  # adjust based on your API rate limits
+MAX_WORKERS = 20  # adjust based on your API rate limits
 
 # Retry decorator for handling temporary API failures
 @retry(stop_max_attempt_number=3, wait_fixed=2000)
